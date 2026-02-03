@@ -24,7 +24,7 @@ serde_json = "1.0.114"
 validator = "0.17.0"
 actix-cors = "0.7.0"
 uuid = { version = "1.7.0", features = ["serde", "v4"] }
-jsonwebtoken = "9.2.0"
+jsonwebtoken = "9.3.1"
 diesel-derive-enum = { version = "2.1.0", features = ["postgres"] }
 git2 = "0.18.2"
 tempdir = "0.3.7"
